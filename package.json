@@ -1,0 +1,23 @@
+{
+  "name": "broccoli-gulp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "broccoli": "^1.1.1",
+    "broccoli-merge-trees": "^2.0.0",
+    "broccoli-sass": "^0.7.0",
+    "broccoli-typescript": "^0.4.0",
+    "broccoli-typescript-compiler": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.1.6",
+    "typescript": "^2.2.2"
+  }
+}
